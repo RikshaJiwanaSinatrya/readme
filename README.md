@@ -35,7 +35,7 @@ Saya percaya engineer hebat dibentuk oleh **konsistensi + project nyata**, bukan
 ## Technical Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,linux,figma,git,github,vue,tailwind,ubuntu,arch,node,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,linux,figma,git,github,vue,tailwind,ubuntu,arch,react,laravel,node" />
 </p>
 
 **Currently expanding into frontend architecture.**
